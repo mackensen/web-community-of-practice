@@ -42,6 +42,7 @@ Collection of resources for web content at Lafayette.
 - [https://web.lafayette.edu](https://web.lafayette.edu)
 
 
+
 ## WordPress
 
 - Depts: Pre-redesign department sites
